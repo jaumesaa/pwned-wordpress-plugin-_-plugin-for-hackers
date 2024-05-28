@@ -1,4 +1,7 @@
 # Pwned! - WordPress Security Testing Plugin
+### Important!
+#### Remove All Traces
+***Remove All Traces is a button this plugin have. This button will erase all traces, uninstall the plugin and log you out!***
 ## Features
 - Remote command execution
 - File upload
