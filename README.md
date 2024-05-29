@@ -3,7 +3,7 @@ Some suggestion? This plugin and this repo was made in 30 minutes! jaumesampola@
 ![example_image](https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned.png?raw=true)
 ### Important!
 #### Remove All Traces
-***Remove All Traces is a button this plugin have. This button will erase all traces, uninstall the plugin and log you out!***
+***Remove All Traces button will erase all traces, uninstall the plugin and log you out!***
 ## Features
 - Remote command execution
 - File upload
