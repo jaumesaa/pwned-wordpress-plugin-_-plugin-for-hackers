@@ -2,7 +2,7 @@
 Some suggestion? This plugin and this repo was made in 30 minutes! jaumesampola@gmail.com for anything, thanks for using it!
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_default_menu.png?raw=true" alt="default menu image" width="50%">
-  <img src="https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_download_files.png?raw=true" alt="download config files image" width="36%">
+  <img src="https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_download_files.png?raw=true" alt="download config files image" width="35%">
 </div>
 ### Important!
 #### Remove All Traces
