@@ -1,7 +1,9 @@
 # Pwned! - WordPress Security Testing Plugin
 Some suggestion? This plugin and this repo was made in 30 minutes! jaumesampola@gmail.com for anything, thanks for using it!
 ![example_image](https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_default_menu.png?raw=true)
+   <img src="https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_default_menu_resized.png?raw=true" width="400">
 ![example_image](https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_download_files.png?raw=true)
+   <img src="https://github.com/jaumesaa/pwned-wordpress-plugin-_-plugin-for-hackers/blob/main/pwned_download_files_resized.png?raw=true" width="400">
 ### Important!
 #### Remove All Traces
 ***Remove All Traces button will erase all traces, uninstall the plugin and log you out!***
