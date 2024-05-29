@@ -24,7 +24,7 @@ Some suggestion? This plugin and this repo was made in 30 minutes! jaumesampola@
 2. Click on `Pwned` to access the plugin's functionalities.
 3. Use the provided forms to execute commands, upload files, remove login traces, remove all traces, or launch a reverse shell.
 
-### Tags (Etiquetas sugeridas para GitHub):
+### Tags:
 - wordpress
 - security
 - hacking
